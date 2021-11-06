@@ -1,0 +1,7 @@
+img {
+    width: 36%;
+}
+
+img:hover {
+    width: 55%
+}
